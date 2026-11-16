@@ -63,7 +63,7 @@
     },
     "rules/temp-scripts.md": {
       "generatedFrom": ".revealui/content/rules/temp-scripts.md",
-      "sha256": "43e20e8b37726b2796768f28bd5daf071c347fdad8fcc5ee4d0ed62f571c297a",
+      "sha256": "6c9c0c98db69cda131ef81ceb6ebc189c8bf122c7b291eee8cd64c82888ff1ca",
       "source": "profiles/revealfleet/revealui/rules/temp-scripts.md"
     },
     "rules/token-economy.md": {

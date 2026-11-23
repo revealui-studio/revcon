@@ -13,7 +13,7 @@
     },
     "rules/disposition-actions.md": {
       "generatedFrom": ".revealui/content/rules/disposition-actions.md",
-      "sha256": "843196de5162a880b10f1227e36b1ca8e753fae89570e97511037753f1abd323",
+      "sha256": "07facd55e3307eb2ad6a71eab84e2e6c2de92ede36ac3aa6b52c0755e6d3881b",
       "source": "profiles/revealfleet/revealui/rules/disposition-actions.md"
     },
     "rules/durable-solutions.md": {
@@ -33,7 +33,7 @@
     },
     "rules/git.md": {
       "generatedFrom": ".revealui/content/rules/git.md",
-      "sha256": "ab8b4efb24cde456cf701b2767c398b5f8c93c9f384aac97f5d33ba61517f3c8",
+      "sha256": "1cb056d5b75294bfea3780a7994ba11861a698a46a70f4064ecd08c07fb689b5",
       "source": "profiles/revealfleet/revealui/rules/git.md"
     },
     "rules/model-allocation.md": {

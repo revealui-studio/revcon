@@ -50,7 +50,7 @@
       "source": "profiles/revealfleet/revealui/rules/secrets.md"
     },
     "content/rules/temp-scripts.md": {
-      "sha256": "66a574826b46352275606d88a9854a0e63c39433a97a55c75f50ccc0f4862a15",
+      "sha256": "561ecb48bb3bbe11ddf242bdd2ef59188b1419d5ccf569490eb819c72bc90244",
       "source": "profiles/revealfleet/revealui/rules/temp-scripts.md"
     },
     "content/rules/token-economy.md": {

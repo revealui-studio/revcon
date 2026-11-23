@@ -27,7 +27,7 @@ Owner-action one-liners in wrap-ups must use this form (see disposition-actions)
 ## Branch Flow (test → main)
 - Feature/fix/chore branches base on **`test`**, never `main`. Open the PR against `test`.
 - `main` only ever receives changes via a promotion PR whose head is `test` (enforced by `promotion-gate.yml`). Never push directly to `main` or `test`, and never open a feature PR directly against `main`.
-- Merge manually after review — no auto-merge.
+- Feature pull requests into `test` use merge commits only. Use `gh pr merge <n> --merge` only. Never pass `--squash`, `--rebase`, `--admin`, or `--auto`. Merge manually after review.
 
 ### Promotion playbook (test → main)
 

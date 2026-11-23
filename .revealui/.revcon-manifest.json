@@ -10,7 +10,7 @@
       "source": "profiles/revealfleet/revealui/rules/control-layer.md"
     },
     "content/rules/disposition-actions.md": {
-      "sha256": "521e36946f1d899fdc66e9b2bc6f58a7807bd389ef36074bea7009ef5b9ba909",
+      "sha256": "03dae67507df1fd40e67122b4d698b6d7124f8a96688a109c86497f1d59e5dc2",
       "source": "profiles/revealfleet/revealui/rules/disposition-actions.md"
     },
     "content/rules/durable-solutions.md": {
@@ -26,7 +26,7 @@
       "source": "profiles/revealfleet/revealui/rules/extend-before-create.md"
     },
     "content/rules/git.md": {
-      "sha256": "68d729dbb87d13b3c9f4ead1b4ff6a3d76aac076a1a28136284c612f1c89e6f2",
+      "sha256": "bf3d6232dab80b2858e1416af3f2843809bbbefbf812e9ab01e94983a5369776",
       "source": "profiles/revealfleet/revealui/rules/git.md"
     },
     "content/rules/model-allocation.md": {
